@@ -1,7 +1,7 @@
 |Arquivo                                                      |Licença                                                                                                               |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 |Museu de Arte Contemporânea da Universidade de São Paulo     |PD - Domínio Público, a obra não é protegida por direitos autorais.                                                   |
-|Instituto de Estudos Brasileiros da Universidade de São Paulo|CC-BY-SA - Atribuição, redistribuição sob as mesmas condições (Novas obras devem ser licenciadas sob os mesmos termos)|
+|Instituto de Estudos Brasileiros da Universidade de São Paulo|CC-BY - Atribuição (O(A) autor(a) / a instituição deve ser nomeado(a)).|
 |Museu Histórico Nacional/Ibram                               |PD - Domínio Público, a obra não é protegida por direitos autorais.                                                   |
 |Escola de Artes Visuais do Parque Lage                       |PD - Domínio Público, a obra não é protegida por direitos autorais.                                                   |
 |Instituto Cultural Israelita Brasileiro - Casa do Povo       |PD - Domínio Público, a obra não é protegida por direitos autorais.                                                   |
