@@ -13,4 +13,4 @@
 |Itaú Cultural                                                |PD - Domínio Público, a obra não é protegida por direitos autorais.                                                   |
 |Museu Nacional/UFRJ                                          |CC-BY - Atribuição (O(A) autor(a) / a instituição deve ser nomeado(a)).                                               |
 |Museu Nacional                                               |CC-BY - Atribuição (O(A) autor(a) / a instituição deve ser nomeado(a)).                                               |
-|MUSEU DE ASTRONOMIA E CIÊNCIAS AFINS                         |CC-BY - Atribuição (O(A) autor(a) / a instituição deve ser nomeado(a)).                                               |
+|Museu de Astronomia e Ciências Afins                         |CC-BY - Atribuição (O(A) autor(a) / a instituição deve ser nomeado(a)).                                               |
