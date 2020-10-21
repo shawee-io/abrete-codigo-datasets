@@ -14,4 +14,4 @@
 |Museu Nacional/UFRJ                                          |CC-BY - Atribuição (O(A) autor(a) / a instituição deve ser nomeado(a)).                                               |
 |Museu Nacional                                               |CC-BY - Atribuição (O(A) autor(a) / a instituição deve ser nomeado(a)).                                               |
 |Museu de Astronomia e Ciências Afins                         |CC-BY - Atribuição (O(A) autor(a) / a instituição deve ser nomeado(a)).                                               |
-|Fundação Bienal de São Paulo                                 |CC-BY-SA - Atribuição, redistribuição sob as mesmas condições (Novas obras devem ser licenciadas sob os mesmos termos)|
+|Fundação Bienal de São Paulo                                 |CC-BY-NC-SA Atribuição, redistribuição sob as mesmas condições, você não pode usar o material para fins comerciais|
